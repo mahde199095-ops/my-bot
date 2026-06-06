@@ -1,1 +1,0 @@
-print("Hello, the tool is working!")
